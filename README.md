@@ -17,7 +17,7 @@ This project is about designing and simulating different types of antennas using
 ## Antenna Design Project
 This repository contains the report and the simulation files for the antenna design project for the course of Antenna Laboratory at Sharif University of Technology.
 
-# Results Overview
+## Results Overview
 The project consists of designing and simulating four types of antennas using HFSS software:
 - Horn antenna
 - Dipole antenna
@@ -29,7 +29,7 @@ Here are some of the final results of the simulation:
 - The dipole antenna has a gain of 2.1 dBi and a return loss of -15 dB at the frequency of 1 GHz.
 - The dipole array has a gain of 8.5 dBi and a return loss of -18 dB at the frequency of 5 GHz.
 - The rotated dipole array has a gain of 12.3 dBi and a return loss of -22 dB at the frequency of 7 GHz.
-# How to Run the Simulation
+## How to Run the Simulation
 To run the simulation, you need to have HFSS software installed on your computer. You can download the software from here.
 To open the simulation files, follow these steps:
 - Launch HFSS software and select File -> Open
@@ -40,5 +40,5 @@ To open the simulation files, follow these steps:
 - To view the results, select Results -> Create Modal Solution Data Report
 - You can choose the type of report you want to create, such as 3D Polar Plot, Rectangular Plot, or Smith Chart
 - You can also modify the parameters and settings of the report as you wish
-# License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.

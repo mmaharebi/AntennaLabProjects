@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Antenna Lab Project
 This project is about designing and simulating different types of antennas using HFSS software. The project consists of two parts:
 
@@ -15,10 +14,10 @@ This project is about designing and simulating different types of antennas using
 - Plot the 2D and 3D radiation patterns of the realized gain in dB in the H-plane at the center frequency.
 - Calculate the phase difference between the elements to rotate the radiation pattern by a specified angle with respect to the broadside direction.
 - Apply the phase difference in HFSS and plot the 2D and 3D radiation patterns of the realized gain in dB in the H-plane at the center frequency.
-=======
 ## Antenna Design Project
 This repository contains the report and the simulation files for the antenna design project for the course of Antenna Laboratory at Sharif University of Technology.
-# Project Overview
+
+# Results Overview
 The project consists of designing and simulating four types of antennas using HFSS software:
 - Horn antenna
 - Dipole antenna
@@ -43,4 +42,3 @@ To open the simulation files, follow these steps:
 - You can also modify the parameters and settings of the report as you wish
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> b8190eb17048249d3632e02a2f371f4b5d466090
